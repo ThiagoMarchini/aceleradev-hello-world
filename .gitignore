@@ -1,0 +1,7 @@
+.idea/
+.ipynb_checkpints/
+*.ipynb
+build/
+gist/
+hello.egg-info/
+venv/
