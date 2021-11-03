@@ -1,28 +1,23 @@
-# Isso é um header
+# Nome do projeto
+Faça uma boa descrição do que o projeto faz
 
-## Isso é um subheader
+## Getting started
+Uma descrição mais detalhada de como começar a utilizar i projeto
 
-### header menor
+### Instalação
+Uma descrição objetiva de como instalar o projeto e todas as suas dependências.
 
-#### menor ainda
-
-escrever _italico_ e __negrito__
-
-Listas:
-* item
-* item 2
-
-Lista numerada
-1) item 
-2) item
-
-Task list
-* [ ] não feito
-* [X] feito
-
-código
 ```zsh
-$ echo "hello markdown"
+$ python setup.py install #ou
+$ make install
 ```
 
-Link [Code::Nation](https://codenation.dev)
+## Rodando os testes
+Descrição de como executar os testes
+
+## Contribuição
+Explicação de como começar a contribuir com o projeto.
+
+## Licença
+MIT, GNU, etc.
+choosealicence.com
